@@ -11,4 +11,11 @@ object DW extends Waarden {
     "waarde3"
   )
 
+  val
+  value1,
+  value2,
+  value3,
+  value4
+  = Doorgeefwaarde()
+
 }
